@@ -1,2 +1,23 @@
-# crypted-thoth-github-list
-crypted thoth github list
+<img href="images/logo.png">
+<h1 align="center">Crypted Thoth Github List</h1>
+<h2>Contributor</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Github_ID</th>
+            <th>Nickname</th>
+            <th>Contact</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>kangdongil</td>
+            <td>noru</td>
+            <td>
+                <a href="https://github.com/cryptedThoth">
+                    akang8150@naver.com
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
