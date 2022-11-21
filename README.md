@@ -20,8 +20,8 @@
             </td>
         </tr>
          <tr>
-            <td>KoSeungHyeon</td>
-            <td>castanea02</td>
+            <td>Castanea02</td>
+            <td>Castanea02</td>
             <td>
                 <a href="https://github.com/cryptedThoth">
                     act.ciders02@icloud.com
